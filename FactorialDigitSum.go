@@ -19,7 +19,7 @@ func factorial(x uint) uint {
 
 //Sums the digits by taking in a string, splitting the string to a string
 //array converting back to and int array and adds up all the digits
-func sumDigits(result string)int {
+func sumDigits(result string) int {
 	
 	var allDigits [] string 
 	var totalSum int
