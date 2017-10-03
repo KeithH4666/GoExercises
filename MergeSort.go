@@ -16,7 +16,7 @@ func main(){
 	
 	fmt.Println("Both slices merged: ",thirdN)
 	
-	sort.Ints(thirdN)// sorts third slice
+	sort.Ints(thirdN)//sorts third slice
 	
 	fmt.Println("Sorted merged slice: ",thirdN)
 	
